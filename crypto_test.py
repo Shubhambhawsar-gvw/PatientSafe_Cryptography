@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-# Generate or load the secret key
+# Generate or load the secret key 1
 KEY_FILE = "secret.key"
 
 def generate_key():
